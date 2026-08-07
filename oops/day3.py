@@ -77,3 +77,16 @@ what are pilars of oops ?
 what is iheritance ? types of inheritance ?
 what is single levl inheritance and give one code example ?
 what is multi level inheritance and give one code example ?
+
+
+matplotlib :-- 
+graphs
+
+bar chart 
+line chart
+pie chart 
+scatter chart 
+area chart 
+etc..
+
+build one simple report with some dummy data
